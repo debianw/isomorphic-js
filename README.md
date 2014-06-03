@@ -1,4 +1,10 @@
-isomorphic-js
-=============
+Isomorphic Javascript (client/server) Structure
+==========
 
-Isomorphic Javascript (server/client) Architecture
+## Install
+
+```
+$ npm install
+$ gulp jsx client
+$ node server
+```
